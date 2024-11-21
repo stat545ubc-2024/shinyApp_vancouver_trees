@@ -32,12 +32,12 @@ The Vancouver Trees Shiny App is an interactive web application that enables use
 ---
 
 ## Dataset Source
-The data utilized in this application is sourced from the `datateachr` package, which provides curated datasets for educational purposes.
+The data utilized in this application is sourced from the `datateachr` package.
 
 - **Package:** `datateachr`
 - **Dataset:** `vancouver_trees`
 
-This dataset contains detailed information about trees in the city of Vancouver, including attributes like species name, common name, street address, and neighborhood.
+This dataset contains detailed information about trees in the city of Vancouver, including attributes like species name, common name, street address, neighborhood and more.
 
 ---
 
