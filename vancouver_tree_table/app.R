@@ -6,7 +6,7 @@ library(tidyverse)
 # Load dataset
 data("vancouver_trees")
 
-# Select only the relevant columns
+# I only display the relevant columns from my perspective
 vancouver_trees_filtered <- vancouver_trees %>%
   select(tree_id, species_name, common_name, on_street_block, on_street, neighbourhood_name)
 
@@ -20,9 +20,13 @@ ui <- fluidPage(
   sidebarLayout(
     sidebarPanel(
       # Checkbox for sorting option (common_name only)
+      # Feature 1: Sorting by common_name
+      # This feature allows users to sort the table by the common name of trees, making it easier to explore specific tree types alphabetically.
       checkboxInput("sort_common_name", "Sort by common_name", value = FALSE),
       
       # Dropdown for selecting neighborhoods
+      # Feature 2: Filtering by neighborhood
+      # This feature allows users to filter the data by selecting one or more neighborhoods, narrowing down to areas of their interest.
       selectInput(
         "neighbourhood", 
         "Select Neighbourhood(s):",
@@ -32,9 +36,13 @@ ui <- fluidPage(
       ),
       
       # Text output for the number of results
+      # Feature 3: Displaying the number of results
+      # This feature shows the number of rows that match the user's selected filters, providing informative feedback on the filtering results.
       textOutput("filter_summary"),
       
       # Button to download the table as a CSV file
+      # Feature 4: Allow for download
+      # This feature allows the users to download the result table as a CSV file to their local computer. 
       downloadButton("download_table", "Download Filtered Table")
     ),
     
