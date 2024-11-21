@@ -54,5 +54,5 @@ If you wish to run this application locally, follow the steps below:
    devtools::install_github("UBC-MDS/datateachr")
    
 3. **Run:**
-   Open the app.R file in RStudio and click "Run App" to launch the application.
+   Open the `vancouver_tree_table` folder at the top of the repository, then open `app.R` file in RStudio and click "Run App" to launch the application.
 
