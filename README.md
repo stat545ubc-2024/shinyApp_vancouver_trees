@@ -1,6 +1,6 @@
 # Vancouver Trees Shiny App
 
-### [View the Live Shiny App](https://your-username.shinyapps.io/vancouver-trees-explorer](https://shirlina.shinyapps.io/vancouver_tree_table/)
+### [View the Live Shiny App](https://shirlina.shinyapps.io/vancouver_tree_table/)
 
 ## Content
 - [Description](#description)
