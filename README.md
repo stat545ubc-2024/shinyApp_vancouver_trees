@@ -1,6 +1,7 @@
 # Vancouver Trees Shiny App
 
 ### [Click this to open the Live Shiny App](https://shirlina.shinyapps.io/vancouver_tree_table/)
+or copy this link and open: https://shirlina.shinyapps.io/vancouver_tree_table/
 
 ## Content
 - [Description](#description)
