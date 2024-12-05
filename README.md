@@ -2,12 +2,8 @@
 
 ### Click to see: [Original App - Main Explorer Only](https://shirlina.shinyapps.io/vancouver_tree_table/) 
  or with link: https://shirlina.shinyapps.io/vancouver_tree_table/
-### [Click this to open the Live Shiny App](https://shirlina.shinyapps.io/vancouver_tree_table/)
-or copy this link and open: https://shirlina.shinyapps.io/vancouver_tree_table/
-
-
 ### Click to see: [Updated App - Includes Neighborhood Analysis](https://shirlina.shinyapps.io/vancouver_trees_updated/)
-### or with link: https://shirlina.shinyapps.io/vancouver_trees_updated/
+ or with link: https://shirlina.shinyapps.io/vancouver_trees_updated/
 
 ---
 
