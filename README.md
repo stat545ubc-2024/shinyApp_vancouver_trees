@@ -32,6 +32,8 @@ The **Vancouver Trees Shiny App** is an interactive web application designed to 
   - Displays the number of trees matching the current filter.
 
 ### 2. Neighborhood Analysis (New in Updated Version):
+- **Adds a New Page:**
+  - New features are added to a new page for presentation. 
 - **Tree Species Selection:**
   - Select a specific tree species (common name) for analysis.
 - **Neighborhood Bar Plot:**
